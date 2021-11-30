@@ -83,7 +83,7 @@
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
   max-width: 300px;
-  box-shadow: 0 0 1em gold;
+  box-shadow: 0 0 1em rgb(51, 99, 255);
  
   
 }
